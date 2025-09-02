@@ -74,4 +74,4 @@ game.Players.PlayerAdded:Connect(function(player)
         end
     end)
 end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/Roblox-AI-Script/main/AI.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EDCALUAG246/Roblox-AI-Script/main/AI.lua"))()
